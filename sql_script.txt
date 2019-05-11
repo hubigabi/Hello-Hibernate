@@ -1,0 +1,10 @@
+create database hello_hibernate;
+use hello_hibernate;
+create table person(
+   id INT NOT NULL AUTO_INCREMENT,
+   first_name VARCHAR(10) NOT NULL,
+   last_name VARCHAR(20) NOT NULL,
+   salary int,
+   PRIMARY KEY ( id )
+);
+
