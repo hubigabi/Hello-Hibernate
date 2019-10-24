@@ -1,4 +1,4 @@
 # Hello Hibernate
 
-Simple Hibernate project
+Simple project using Hibernate framework 
 
